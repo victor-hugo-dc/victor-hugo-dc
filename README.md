@@ -5,6 +5,6 @@ I'm a Computer Science student at Yale University!
 - 🌱 I’m currently taking a leave of absence to work on mental and physical well-being. 
 - 📫 How to reach me: email me at delcarpio dot vh "at" gmail dot com.
 
-<center>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=victor-hugo-dc&theme=dark)](https://git.io/streak-stats)
-</center>
+<div style="text-align:center;">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=victor-hugo-dc&theme=dark)](https://git.io/streak-stats)
+</div>
