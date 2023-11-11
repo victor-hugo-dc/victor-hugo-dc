@@ -12,6 +12,5 @@
 
 <br/>
 
-- 🌱 I’m currently at Microsoft as a Software Engineering Intern. 
 - 📫 How to reach me: email me at delcarpio dot vh "at" gmail dot com.
 
