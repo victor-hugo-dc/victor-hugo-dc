@@ -1,5 +1,4 @@
 <h1 align="center">Hi! My name is Victor Hugo 👋</h1>
-<h3 align="center">I'm a Computer Science student at Yale University!</h3>
 
 <div align="center" style="margin-bottom: 10px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="js" style="max-width: 100%;">
