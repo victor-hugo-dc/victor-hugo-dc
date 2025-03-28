@@ -1,15 +1,17 @@
-<h1 align="center">Hi! My name is Victor Hugo 👋</h1>
+# Hi there, I'm Vic👋
 
-<div align="center" style="margin-bottom: 10px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="js" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="react" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="html" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="css" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;">
-</div>
+I'm Victor Hugo, a software engineer based in Northern Virginia, currently modernizing tech infrastructure at Around Town Movers. As a former QuestBridge Scholar, I've interned at Microsoft and Snap, Inc., and contributed to research at Yale's Interactive Machines Group. While my core focus lies in backend development and cloud systems architecture, I'm excited by almost anything in tech.
 
-<br/>
+📬 For more info, please visit my [LinkedIn](https://www.linkedin.com/in/victor-hugo-dc/) or contact me at [delcarpio dot vh "at" gmail dot com](mailto:delcarpio.vh@gmail.com)!
 
-- 📫 How to reach me: email me at delcarpio dot vh "at" gmail dot com.
+## 🌱 Skills
+- 📍 Proficiency in Python, C/C++, Java, C#, R, JavaScript, and SQL
+- 🔧 Experience with Docker, Kubernetes, AWS, Google Cloud, and Azure
+- 🗣 Habla español
 
+## 🌲 When I'm Not Coding
+
+- 🥊 Training in Muay Thai/Jiu-Jitsu
+- 🏕️ Winter glamping & outdoor adventures
+- 🎣 Fishing in the Potomac
+- 📸 Capturing moments with my DSLR & vintage Palmcorder
